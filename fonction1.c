@@ -1,0 +1,3 @@
+#include<stdio.h>
+int pair (int nba){
+    return nba%2;+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
